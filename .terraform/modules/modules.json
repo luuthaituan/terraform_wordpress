@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"networks","Source":"./modules/networks","Dir":"modules/networks"},{"Key":"wordpress","Source":"./modules/wordpress","Dir":"modules/wordpress"}]}
